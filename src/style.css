@@ -2,3 +2,12 @@ h1 {
   text-align: center;
   color: blue;
 }
+p {
+  text-align: center;
+}
+
+.contact {
+  display: block;
+  margin: 0 auto;
+  width: 180px;
+}
